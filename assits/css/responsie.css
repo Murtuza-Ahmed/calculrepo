@@ -1,0 +1,13 @@
+@media(min-width:320px) and (max-width:450px) {
+    .calculator {
+        width: 300px;
+    }
+
+    .display input {
+        width: 15rem;
+    }
+
+    .calculbtn {
+        margin: 1rem;
+    }
+}
