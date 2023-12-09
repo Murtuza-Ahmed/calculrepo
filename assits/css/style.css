@@ -37,3 +37,13 @@ body {
     font-size: 2rem;
     text-align: right;
 }
+
+input::placeholder {
+    color: #000;
+}
+
+.calculbtn {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
